@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaddollxz&show_icons=true&theme=radical)](https://github.com/shaddollxz/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddollxz)](https://github.com/shaddollxz/github-readme-stats)
+
 <!--
 **shaddollxz/shaddollxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
