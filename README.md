@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div style="display: flex; flex-direction: column; gap: 16px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaddollxz&show_icons=true&theme=radical" />
   </a>
